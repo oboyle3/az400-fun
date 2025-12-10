@@ -1,0 +1,6 @@
+| Aspect             | Source Code                                         | Artifact                                                                            |
+| ------------------ | --------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| **What it is**     | Human-readable code you write (`.cs`, `.js`, `.py`) | Built output of your code (`.dll`, `.jar`, `.zip`, Docker image, NuGet/NPM package) |
+| **Purpose**        | For **editing, reviewing, collaboration**           | For **running, deploying, distributing**                                            |
+| **Where it lives** | Source control (Git, Azure Repos, etc.)             | Artifact repository / pipeline storage / target environment                         |
+| **Example**        | `app.js`, `main.py`, `Program.cs`                   | `app.dll`, `app.zip`, `app:1.0.0` Docker image                                      |

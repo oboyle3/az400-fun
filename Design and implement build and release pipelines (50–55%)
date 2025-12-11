@@ -7,3 +7,12 @@
     codeCoverageTool: 'Cobertura'
     summaryFileLocation: 'coverage.xml'
 
+12/10
+-> have a question on PMD
+-- what is pmd? its a static code analyis tool
+-- example yaml
+  # Publish PMD results
+  - task: PublishBuildArtifacts@1
+    inputs:
+      pathToPublish: 'target/pmd.xml'
+      artifactName: 'pmd-report'

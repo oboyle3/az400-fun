@@ -12,6 +12,8 @@ Depreciated Feature removed = MAJOR
 Configuration format changed = MAJOR
 
 Feature introduced that is optional = MINOR
+
+Alpha / Beta prereleases = Label
 -------------------------------------------
 
 🔴 MAJOR = STOP (breaking change)

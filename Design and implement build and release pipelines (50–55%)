@@ -37,3 +37,6 @@ Goal 1 -> Compile Code -----> task in YAML ( )
 Goal 1 -> Compile Code -----> task in YAML ( )
 |
 Goal 1 -> Compile Code -----> task in YAML ( )
+
+12/13
+To download test or coverage evidence files (.coverage), use the Related section of the pipeline run summary.

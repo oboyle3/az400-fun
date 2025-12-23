@@ -1,0 +1,25 @@
+Azure Monitor is the overall monitoring platform
+-
+Application Insights is a feature inside Azure Monitor focused on application-level monitoring.
+
+If the question mentions:
+
+“VM CPU, memory, disk”
+
+“Platform health”
+
+“Alerts on infrastructure”
+
+👉 Azure Monitor
+
+If the question mentions:
+
+“Web app performance”
+
+“Request failures”
+
+“Application telemetry”
+
+“End-user experience”
+
+👉 Application Insights

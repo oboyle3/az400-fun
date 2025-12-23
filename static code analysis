@@ -1,0 +1,10 @@
+12-22
+
+static code analysis-
+
+=> automated inspection of code during CI (continous integration) phase. Looking for code quality and security vulnerabilities
+
+=> technology = sonarQube
+
+So if I am a developer when i go to push to main and before the pr is made a CI process that includes static code analysis will run
+

@@ -9,5 +9,5 @@ This repository contains my notes, study plan, and progress toward the Microsoft
 
 ## Progress
 - [ ] 12/9: Semantic Versioning
-- [ ] N/A: CI/CD basics
+- [ ] 12/22: Static code analsis is part of the CI process and will run before the PR is made when attempting to get a merge in
 

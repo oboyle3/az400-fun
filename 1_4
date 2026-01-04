@@ -1,0 +1,16 @@
+1/4 notes
+1- "will only support basic auth over HTTPS" = we know that 'basic authetication' is username and password.
+-
+2- configuratonMode parmater allplies to "congif drift over time"
+-
+3- question says-
+
+logs, queries, azure monitor  = azure log analytics
+
+app performace =  azure app insights
+
+azure sql tuning = azure sql interlligent insights
+
+event streaming  = azure event hubs
+-
+4- Application Insights Smart Detection automatically identifies abnormal application behavior and notifies teams without requiring manual alert configuration.

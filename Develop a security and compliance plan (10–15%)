@@ -1,4 +1,4 @@
 12/10 
 -> have a question on static code analysis
 --when should you use? during PR phase and also the CI phase
-REMEMBER during the CI phase thats where you COMPLILE CODE, RUN QUALITY GATES, RUN UNIT TESTS
+REMEMBER during the CI phase thats where you COMPLILE CODE, RUN QUALITY GATES, RUN UNIT TESTS etc

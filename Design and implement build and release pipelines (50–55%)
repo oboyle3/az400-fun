@@ -26,16 +26,7 @@ Goal 2 -> Validate behavior  -----> task in YAML ( @Maven4 (test) )
 |
 Goal 3 -> Find vulnerabilities -----> task in YAML ( SonarQubeAnalyze@5 )
 |
-Goal 1 -> Compile Code -----> task in YAML ( )
-|
-Goal 1 -> Compile Code -----> task in YAML ( )
-|
-Goal 1 -> Compile Code -----> task in YAML ( )
-|
-Goal 1 -> Compile Code -----> task in YAML ( )
-|
-Goal 1 -> Compile Code -----> task in YAML ( )
-|
+
 Goal 1 -> Compile Code -----> task in YAML ( )
 
 12/13
